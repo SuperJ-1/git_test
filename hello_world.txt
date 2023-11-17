@@ -1,1 +1,3 @@
-ssh 9cdc184a361e@9cdc184a361e.5063f0f0.alx-cod.online
+SFTP: ssh 9cdc184a361e@9cdc184a361e.5063f0f0.alx-cod.online
+USERNAME: 9cdc184a361e
+PASSWORD: 3ceb02ce16a43e6cd41e
